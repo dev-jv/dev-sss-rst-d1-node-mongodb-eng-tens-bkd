@@ -1,0 +1,27 @@
+{
+  "name": "dev-sss-rst-d1-node-mongodb-eng-tens-bkd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-jv/dev-sss-rst-d1-node-mongodb-eng-tens-bkd.git"
+  },
+  "author": "dev-jv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-jv/dev-sss-rst-d1-node-mongodb-eng-tens-bkd/issues"
+  },
+  "homepage": "https://github.com/dev-jv/dev-sss-rst-d1-node-mongodb-eng-tens-bkd#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.13.0",
+    "mongoose": "^6.0.12"
+  }
+}
